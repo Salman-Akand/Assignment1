@@ -1,0 +1,194 @@
+Note.txt
+
+Class-1 : SEO
+SEO : Search Engine Optimization
+-------
+Search Engine list: 
+1.Google.com
+2.Bing.com
+3.Yahoo.com
+
+* Types of SEO
+	1.Organic SEO / Free SEO
+	2.Paid SEO (PPC)
+
+1. Organic SEO
+	A. On Page SEO
+	B  Off Page SEO
+
+*Base on work 
+1.White Hat SEO ( Logn term )
+2.Black Hat SEO (Short time )
+3.Gray Hat SEO 
+ 
+Class-2
+
+*SERP -  Search Engine Result Page :
+	# Three pack / Snack pack 
+	# Knowldge pannel / One box
+	# Site link
+	# Keyword
+
+*Niche -
+	#Broad Niche - Computer 
+	#Narrow Niche - Keybord 
+	#Narrow Down Niche - Wirless keyboard
+
+*Keyword -
+	#Keyword Research (3-4 Classes )
+
+Class-3
+
+*Keyword -
+	#Keyword Research (3-4 Classes )
+	#keyword research and competitor analysis
+
+
+1. High demand , high competition 
+2. High demand, low competition  (Best)
+3. Low demand , low competition
+4. Low demand , high competition
+
+*step by step keyword research
+
+1.Keyword idea generate:
+	#Asked yourself
+	#Google instant search result
+	#Google related search result
+	#keyword tools
+		1.keywordsheeter 
+		https://keywordsheeter.com/
+		2.Answer the question
+
+
+Home Work : 
+Email : fazlrabbidm3@gmail.com
+
+Class-4
+Google Trends:
+  *https://trends.google.com/trends/
+
+Search Volume :
+ *Google keyword planner :
+  https://ads.google.com/aw/keywordplanner
+
+Home Work : Google keyword planner account
+Next : Class 5 er topic : Com. analysis 
+
+Class-5
+
+Keyword research tool:
+https://www.keywordrevealer.com/
+
+
+---- MozBar ------
+https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp?hl=en
+
+*DA- Domain Authority
+Below -30 - Low 
+30-50 - Mid 
+50+  High
+
+*PA-Page Authority 
+Below -30 - Low 
+30-50 - Mid 
+50+  High
+
+Class-6
+
+MozBar
+------------
+DA, PA
+
+DA- Domain Authority
+Below -30 = low
+30-50 = Mid
+50+ = High
+
+PA- Page Authority
+
+Below -30 = low
+30-50 = Mid
+50+ = High
+
+MozBar Extension :
+Backlinks
+
+Class-7
+
+Project Keyword Research
+
+Suggestion :
+
+Short tail - High Com.
+
+Long tail - Low com.
+
+* Buyer intend
+Mobile phone
+best mobile phone shop in dhaka
+
+Class-8
+
+01893-606209
+
+On SEO Checklist :
+
+1. Keyword in Title
+2. keyowrd in URL
+3. Title 50-55 character 
+4. Informative content focusing your keyword (300 words)
+5. If possible keyword heading 2 তে রাখব 
+6. Meta description 150-155 character
+7. Meta Description এর মধ্যে keyword রাখতে হবে ।
+8. Paragraph শুরুতে keyword রাখব ।
+9. Internal linking 
+10.External linking 
+
+Class-9
+
+Practical On Page SEO
+------------------
+Install and activate Yoast SEO
+
+Keyword :best fly fishing setup
+
+
+Problem : WordPress kora hoyni !
+Sub domain : Activate nai
+
+3 days break ....
+
+Next Class : 12-8-2022
+   বাসায় গিয়ে পড়ানো হয় !!
+
+প্লে - ৫ম শ্রেনী ( সকল বিষয় )
+৬ষ্ঠ - ৮ম শ্রেনী ( গনিত,বিজ্ঞান )
+৯ম – ১০ম শ্রেনী ( বিজ্ঞানের সকল বিষয় )
+একাদশ-দ্বাদশ শ্রেনী (পদার্থ,গনিত,রসায়ন & ICT)
+
+		         নাম – আরফিন শুভ
+বিভাগ- কম্পিউটার সায়েন্স এন্ড ইঞ্জিনিয়ারিং( CSE )
+                  ( রাজশাহী বিশ্ববিদ্যালয় )
+যোগাযোগ – ০১৯৯৭-১০৫৫৪০ 
+        ০১৫৮১-৮২৪১৫৮
+
+public class Year {
+    private int year;
+    public void setYear(int year){
+        this.year=year;
+    }
+    public boolean isLeapYear(){
+        boolean LeapYear = false;
+        if(year%100==0 && year%400==0 || year%100!=0 && year%4==0)
+        {
+            LeapYear = true;
+        }
+        else
+        {
+            LeapYear = false;
+        }
+        return LeapYear;
+    }
+}
+
